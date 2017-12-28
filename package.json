@@ -1,0 +1,22 @@
+{
+  "name": "mongo-mongoose-ttl",
+  "version": "1.0.0",
+  "description": "Time to live example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bushan1891/Mongo-Mongoose-ttl.git"
+  },
+  "keywords": [
+    "ttl"
+  ],
+  "author": "Nagendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bushan1891/Mongo-Mongoose-ttl/issues"
+  },
+  "homepage": "https://github.com/bushan1891/Mongo-Mongoose-ttl#readme"
+}
